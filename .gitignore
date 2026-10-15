@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.pytest_cache/
+logs/
+*.log
+# Ignore data files (keep large datasets out of the repo; use Git LFS if needed)
+data.txt
+german_credit_data.csv
