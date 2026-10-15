@@ -5,7 +5,9 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .vscode/
+# pytest cache
 .pytest_cache/
+# logs and runtime files
 logs/
 *.log
 # Ignore data files (keep large datasets out of the repo; use Git LFS if needed)
